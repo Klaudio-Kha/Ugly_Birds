@@ -1,0 +1,25 @@
+## TELA DO JOGO
+	→ Fundo do jogo (background)
+	→ Importar sprites
+	→ Colocando na room
+	→ Criar layers do background e inserir a imagem do background na layer
+	→ Resolução da tela do jogo
+	→ Background fica mais rápido quando subimos de level
+
+## TELA INICIAL
+
+## TELA DA LOJA
+
+## PLAYER DO JOGO
+
+## COLISÃO COM OBSTÁCULOS
+
+## COLISÃO COM INIMIGOS
+
+## GERAÇÃO PROCEDURAL DO LEVEL
+
+## SISTEMA DO LEVEL
+
+## SISTEMA PONTUAÇÃO
+
+## SISTEMA DE COLETÁVEIS
