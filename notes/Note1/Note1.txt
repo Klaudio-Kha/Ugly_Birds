@@ -5,14 +5,33 @@
 	→ Criar layers do background e inserir a imagem do background na layer
 	→ Resolução da tela do jogo
 	→ Background fica mais rápido quando subimos de level
+	
+## CRIANDO O PLAYER
+	→ Importar as sprites
+	→ Criar o objeto do player
+	→ Layer do player
+	→ Colocar ele na room
+	→ Cair (força da gravidade)
+	→ Executar animação de bater asas, somente ao pressionar espaço
+	→ Subir ao bater asas (pressionando space bar)
+
+## COLISÃO COM OBSTÁCULOS
+	→ Importar sprites das árvores
+	→ Criar o objeto árvore
+	→ Criar a layer
+	→ Fazer os obstáculos irem para a esquerda
+	→ Player colidiu? Avisar da colisão
+	→ Efeito da morte do passáro:
+	  passáro não pode mais bater as asas
+	  parar movimentação do background
+	  parar movimentação do inimigo
+	  esperar 1 segundo e reiniciar o jogo
 
 ## TELA INICIAL
 
 ## TELA DA LOJA
 
 ## PLAYER DO JOGO
-
-## COLISÃO COM OBSTÁCULOS
 
 ## COLISÃO COM INIMIGOS
 

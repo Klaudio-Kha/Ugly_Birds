@@ -33,10 +33,8 @@
   "name":"Ugly_Birds",
   "resources":[
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
-    {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
-    {"id":{"name":"obj_mountain1","path":"objects/obj_mountain1/obj_mountain1.yy",},},
-    {"id":{"name":"obj_mountain2","path":"objects/obj_mountain2/obj_mountain2.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"vr_globals","path":"scripts/vr_globals/vr_globals.yy",},},
     {"id":{"name":"bg_clouds","path":"sprites/bg_clouds/bg_clouds.yy",},},

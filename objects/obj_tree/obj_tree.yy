@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mountain1",
-  "eventList":[],
+  "%Name":"obj_tree",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_mountain1",
+  "name":"obj_tree",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"bg_mountain_1",
-    "path":"sprites/bg_mountain_1/bg_mountain_1.yy",
+    "name":"spr_obstacle_tree_1",
+    "path":"sprites/spr_obstacle_tree_1/spr_obstacle_tree_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
