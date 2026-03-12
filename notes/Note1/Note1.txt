@@ -33,17 +33,37 @@
 	→ Criar a layer do inimigo
 	→ Movimento para a esquerda
 	→ Colisão com o player
+	
+## GERAÇÃO PROCEDURAL DE LEVEL
+	→ Árvores:
+	  as árvores aparecem com alturas aleatórias de tempos em tempos
+	→ Pássaros inimigos:
+	  os inimigos aparecem com alturas aleatórias de tempos em tempos
+	  
+## SISTEMAS DOS LEVELS
+	→ Exibir o número que mostra o level atual:
+	  usar sprite fonts
+	  centralizar na tela o número do level atual
+	→ Subindo de level ao atingir certas pontuações:
+	  1- 100
+	  2- 250
+	  3- 500
+	  4- 800
+	  5- 1200
+	  6- 1800
+	  7- 2500
+	  8- 3500
+	  9- 5000
+	→ A cada novo level alcançado a velocidade do jogo é aumentada
+	→ Importar som de level up
+	  quando o player subir de level, tocar o som de level up
+
+## SISTEMA PONTUAÇÃO
+
+## SISTEMA DE COLETÁVEIS
 
 ## TELA INICIAL
 
 ## TELA DA LOJA
 
 ## PLAYER DO JOGO
-
-## GERAÇÃO PROCEDURAL DO LEVEL
-
-## SISTEMA DO LEVEL
-
-## SISTEMA PONTUAÇÃO
-
-## SISTEMA DE COLETÁVEIS

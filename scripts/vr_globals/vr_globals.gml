@@ -17,6 +17,12 @@ global.score = 0;
 //variável do level
 global.level = 1;
 
+//variável dos coletáveis
+global.item = 0;
+
+//variável que controla a velocidade dos coletáveis
+global.item_speed = -4;
+
 #endregion
 
 #region Functions
