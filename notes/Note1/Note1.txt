@@ -27,13 +27,18 @@
 	  parar movimentação do inimigo
 	  esperar 1 segundo e reiniciar o jogo
 
+## COLISÃO COM INIMIGOS
+	→ Importar sprites
+	→ Criar o objeto inimigo
+	→ Criar a layer do inimigo
+	→ Movimento para a esquerda
+	→ Colisão com o player
+
 ## TELA INICIAL
 
 ## TELA DA LOJA
 
 ## PLAYER DO JOGO
-
-## COLISÃO COM INIMIGOS
 
 ## GERAÇÃO PROCEDURAL DO LEVEL
 
