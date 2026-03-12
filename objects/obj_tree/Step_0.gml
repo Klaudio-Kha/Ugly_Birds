@@ -9,5 +9,5 @@ if(global.lose == true){
 	hspeed = 0;
 } else {
 	//velocidada da arvore é -2 menos a velocidade do level
-	hspeed = -2;
+	hspeed = -2 - global.level;
 }

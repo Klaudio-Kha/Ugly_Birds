@@ -11,6 +11,12 @@ global.sprite_tree = spr_obstacle_tree_1
 //variável para saber se o player perdeu
 global.lose = false;
 
+//variável da pontuação
+global.score = 0;
+
+//variável do level
+global.level = 1;
+
 #endregion
 
 #region Functions
@@ -23,6 +29,9 @@ function game_over(){
 	//mudando a variável 'lose' para informar que o player perdeu
 	global.lose = true;
 	
+	//mudando sprite para sprite dead
+	sprite_index = spr_sparrow_dead;
+	
 	//impulso pra cima depois da colidir
 	vspeed = -4;
 	//impulso para trás
@@ -34,4 +43,7 @@ function game_over(){
 	layer_hspeed("bg_mountain1", 0);
 	layer_hspeed("bg_mountain2", 0);
 	layer_hspeed("bg_clouds", 0);
+	
+	//reiniciando o jogo após 1 segundo
+	alarm[0] = game_get_speed(gamespeed_fps);
 }
