@@ -8,7 +8,7 @@ var _score = round(global.score);
 draw_text_colour(20,10, "Score: " + string(_score), c_yellow, c_orange, c_red, c_red, 1);
 
 //exibindo a qtd de moedas já coletados
-draw_text_colour(70,50, global.coin, c_yellow, c_orange, c_red, c_red, 1);
+draw_text_colour(65, 47, global.coin, c_yellow, c_orange, c_red, c_red, 1);
 
 //voltando a cor original;
 draw_set_color(c_white);

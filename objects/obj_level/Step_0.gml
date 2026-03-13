@@ -19,10 +19,10 @@ if(global.lose == false){
 		
 			//aumentando a velocidade de todo o background
 			layer_hspeed("bg_ground", -global.level);
-			layer_hspeed("bg_hill", -global.level * .32);
-			layer_hspeed("bg_mountain1", -global.level * .27);
-			layer_hspeed("bg_mountain2", -global.level * .23);
-			layer_hspeed("bg_clouds", -global.level * .17);
+			layer_hspeed("bg_hill", -global.level * .35);
+			layer_hspeed("bg_mountain1", -global.level * .29);
+			layer_hspeed("bg_mountain2", -global.level * .25);
+			layer_hspeed("bg_clouds", -global.level * .19);
 		}
 	}
 }
