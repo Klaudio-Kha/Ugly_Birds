@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"bonus",
-    "path":"folders/sprites/bonus.yy",
+    "name":"miscelaneous",
+    "path":"folders/sprites/miscelaneous.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

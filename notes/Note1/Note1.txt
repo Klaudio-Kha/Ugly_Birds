@@ -39,7 +39,10 @@
 	  as árvores aparecem com alturas aleatórias de tempos em tempos
 	→ Pássaros inimigos:
 	  os inimigos aparecem com alturas aleatórias de tempos em tempos
-	  
+
+## SISTEMA PONTUAÇÃO
+	→ Ganhar pontos enquanto o player estiver vivo no jogo
+
 ## SISTEMAS DOS LEVELS
 	→ Exibir o número que mostra o level atual:
 	  usar sprite fonts
@@ -57,8 +60,6 @@
 	→ A cada novo level alcançado a velocidade do jogo é aumentada
 	→ Importar som de level up
 	  quando o player subir de level, tocar o som de level up
-
-## SISTEMA PONTUAÇÃO
 
 ## SISTEMA DE COLETÁVEIS
 

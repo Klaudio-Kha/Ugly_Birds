@@ -18,10 +18,13 @@ global.score = 0;
 global.level = 1;
 
 //variável dos coletáveis
-global.item = 0;
+global.coin = 0;
 
 //variável que controla a velocidade dos coletáveis
-global.item_speed = -4;
+global.coin_speed = -4;
+
+//lista com a pontuação necessária para subir de level
+global.point_list = [100, 250, 500, 800, 1200, 1800, 2500, 3500, 5000];
 
 #endregion
 
