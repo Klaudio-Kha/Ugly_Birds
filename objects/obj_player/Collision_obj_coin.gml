@@ -6,6 +6,7 @@ global.coin += 1;
 var _pitch = random_range(0.8, 1.5);
 
 //tocando som ao pegar uma moeda
+audio_play_sound(snd_coin, 0, 0, , , _pitch);
 
 //destruindo a instância da moeda
 //que o player pegou

@@ -37,6 +37,7 @@ function game_over(){
 	
 	//mudando a variável 'lose' para informar que o player perdeu
 	global.lose = true;
+	//show_debug_message("morreu");
 	
 	//mudando sprite para sprite dead
 	sprite_index = spr_sparrow_dead;
@@ -55,4 +56,7 @@ function game_over(){
 	
 	//reiniciando o jogo após 1 segundo
 	alarm[0] = game_get_speed(gamespeed_fps);
+	
+	//jogador perdeu, então ir para room inicial
+	global.goto = rm_start;
 }

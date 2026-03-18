@@ -6,6 +6,7 @@ if(global.lose == true){
 	image_angle += 2;
 } else {
 	//checando se saí da tela por cima ou por baixo
+	show_debug_message("vivo");
 	if(y >= 370 or y <= 0){
 		//você perdeu.
 		game_over();

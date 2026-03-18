@@ -21,6 +21,6 @@ part_type_size(global.pt_star, 0.09, 0.36, 0, 0);
 part_type_speed(global.pt_star, 1, 5, 0, 0);
 part_type_direction(global.pt_star, 0, 359, 0, 0);
 part_type_gravity(global.pt_star, 0.03, 270);
-part_type_life(global.pt_star, 20, 35);
+part_type_life(global.pt_star, 20, 40);
 part_type_alpha2(global.pt_star, 1, 0);
 part_type_color1(global.pt_star, c_orange);

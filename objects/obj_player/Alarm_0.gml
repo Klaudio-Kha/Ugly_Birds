@@ -11,4 +11,4 @@ global.lose = false;
 global.score = 0;
 
 //volte ao primeiro nível do game
-global.level = 1;
+//global.level = 1;
